@@ -1,0 +1,9 @@
+.text{
+width: 220px;
+height: 200px;
+background-color: aquamarine;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 20px;
+}
