@@ -1,0 +1,24 @@
+ul,li{list-style-type: none;}
+ul li{
+    margin: 10px;
+    width: 500px;
+    height: 50px;
+    background-color: aqua;
+    padding: 10px;
+ font-size: 20px;
+
+}
+.textlist{
+    width: 200px;
+    height: 200px;
+    
+    margin-left: 50px;
+}
+.bg-dark{
+    background-color: rgba(2, 33, 48, 0.705);
+}
+button{
+    margin-left: 50px;
+    width: 80px;
+    height: 50px;
+}
